@@ -4,9 +4,12 @@ jstd.log
 .DS_Store
 gen_docs.disable
 test.disable
+temp_auto_push.bat
 regression/temp*.html
 performance/temp*.html
 .idea/workspace.xml
 *~
 angular.js.tmproj
 node_modules
+.gitignore
+branch_structure.json
