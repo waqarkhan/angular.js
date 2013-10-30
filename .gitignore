@@ -14,3 +14,4 @@ angular.xcodeproj
 .idea
 libpeerconnection.log
 npm-debug.log
+config.bat
