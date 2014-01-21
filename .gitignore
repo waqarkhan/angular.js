@@ -6,6 +6,7 @@ gen_docs.disable
 test.disable
 regression/temp*.html
 performance/temp*.html
+temp_auto_push.bat
 .idea/workspace.xml
 *~
 angular.js.tmproj
@@ -14,3 +15,6 @@ angular.xcodeproj
 .idea
 libpeerconnection.log
 npm-debug.log
+config.bat
+.gitignore
+branch_structure.json
