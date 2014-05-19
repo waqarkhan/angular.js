@@ -8,6 +8,7 @@ performance/temp*.html
 *~
 *.swp
 angular.js.tmproj
+temp_auto_push.bat
 /node_modules/
 /components/
 /bower_components/
@@ -18,3 +19,6 @@ libpeerconnection.log
 npm-debug.log
 /tmp/
 /scripts/bower/bower-*
+config.bat
+.gitignore
+branch_structure.json
